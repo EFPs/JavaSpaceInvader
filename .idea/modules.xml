@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpaceInvader.iml" filepath="$PROJECT_DIR$/.idea/modules/SpaceInvader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpaceInvader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpaceInvader_main.iml" group="SpaceInvader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpaceInvader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpaceInvader_test.iml" group="SpaceInvader" />
+    </modules>
+  </component>
+</project>
